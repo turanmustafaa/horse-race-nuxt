@@ -7,7 +7,6 @@
 </template>
 
 <script setup lang="ts">
-const { count, increment } = useCounter()
 const router = useRouter()
 
 

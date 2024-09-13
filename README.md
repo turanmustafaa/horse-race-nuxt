@@ -18,7 +18,7 @@ The following technologies were used in this project:
 
 # How I Developed the Project
 
-In this project, I used all the requested technologies, visual structures, and added functionality. I developed the project using Nuxt, VueJs and Pinia. Below are detailed information about the methods and technologies I used during the development process:
+In this project, I used all the requested technologies, visual structures, and added functionality. I developed the project using Nuxt, VueJs, Pinia and TypeScript. Below are detailed information about the methods and technologies I used during the development process:
 
 - The project starts with the start screen.
 - I created a fake DB to demonstrate how CRUD operations can be performed.
@@ -76,7 +76,7 @@ Bu projede aşağıdaki teknolojiler kullanılmıştır:
 
 # Projeyi Nasıl Geliştirdim
 
-Bu projede istenilen tum teknolojileri, gorsel yapıları kullandım ve fonksiyonellik kattım. projeyi Nuxt, Vuejs ve Pinia kullanılarak geliştirdim. Aşağıda projenin geliştirilme sürecinde kullandıgım yöntemler ve teknolojiler hakkında detaylı bilgiler bulunmaktadır:
+Bu projede istenilen tum teknolojileri, gorsel yapıları kullandım ve fonksiyonellik kattım. projeyi Nuxt, Vuejs Pinia ve TypeScript kullanılarak geliştirdim. Aşağıda projenin geliştirilme sürecinde kullandıgım yöntemler ve teknolojiler hakkında detaylı bilgiler bulunmaktadır:
 
 - proje start ekranı ile başlıyor.
 - projede fake db oluşturdum boylelike crud işlemlerini nasıl yapabilecegini gosteriyorum.

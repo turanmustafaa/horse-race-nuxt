@@ -1,0 +1,166 @@
+{
+    "horses": [
+      {
+        "id" : 1,
+        "name": "Thunder",
+        "color": "gray",
+        "condition": 85,
+        "animationPlayState" : false,
+        "position" : 0
+        
+      },
+      {
+        "id" : 2,
+        "name": "Blaze",
+        "color": "white",
+        "condition": 90,
+        "animationPlayState" : false,
+        "position" : 0
+      },
+      {
+        "id" : 3,
+        "name": "Lightning",
+        "color": "roan",
+        "condition": 100,
+        "animationPlayState" : false,
+        "position" : 0
+      },
+      {
+        "id" : 4,
+        "name": "Storm",
+        "color": "white",
+        "condition": 50,
+        "animationPlayState" : false,
+        "position" : 0
+      },
+      {
+        "id" : 5,
+        "name": "Flash",
+        "color": "palomino",
+        "condition": 60,
+        "animationPlayState" : false,
+        "position" : 0
+      },
+      {
+        "id" : 6,
+        "name": "Comet",
+        "color": "chestnut",
+        "condition": 65,
+        "animationPlayState" : false,
+        "position" : 0
+      },
+      {
+        "id" : 7,
+        "name": "Shadow",
+        "color": "brown",
+        "condition": 88,
+        "animationPlayState" : false,
+        "position" : 0
+      },
+      {
+        "id" : 8,
+        "name": "Spirit",
+        "color": "black",
+        "condition": 76,
+        "animationPlayState" : false,
+        "position" : 0
+      },
+      {
+        "id" : 9,
+        "name": "Bolt",
+        "color": "dun",
+        "condition": 55,
+        "animationPlayState" : false,
+        "position" : 0
+      },
+      {
+        "id" : 10,
+        "name": "Majestic",
+        "color": "gray",
+        "condition": 45,
+        "animationPlayState" : false,
+        "position" : 0
+      },
+      {
+        "id" : 11,
+        "name": "Sky",
+        "color": "bay",
+        "condition": 92,
+        "animationPlayState" : false,
+        "position" : 0
+      },
+      {
+        "id" : 12,
+        "name": "Star",
+        "color": "roan",
+        "condition": 95,
+        "animationPlayState" : false,
+        "position" : 0
+      },
+      {
+        "id" : 13,
+        "name": "Eagle",
+        "color": "white",
+        "condition": 72,
+        "animationPlayState" : false,
+        "position" : 0
+      },
+      {
+        "id" : 14,
+        "name": "Fury",
+        "color": "black",
+        "condition": 68,
+        "animationPlayState" : false,
+        "position" : 0
+      },
+      {
+        "id" : 15,
+        "name": "Tornado",
+        "color": "gray",
+        "condition": 66,
+        "animationPlayState" : false,
+        "position" : 0
+      },
+      {
+        "id" : 16,
+        "name": "Dancer",
+        "color": "chestnut",
+        "condition": 91,
+        "animationPlayState" : false,
+        "position" : 0
+      },
+      {
+        "id" : 17,
+        "name": "Fireball",
+        "color": "palomino",
+        "condition": 48,
+        "animationPlayState" : false,
+        "position" : 0
+      },
+      {
+        "id" : 18,
+        "name": "Midnight",
+        "color": "brown",
+        "condition": 78,
+        "animationPlayState" : false,
+        "position" : 0
+      },
+      {
+        "id" : 19,
+        "name": "Rocket",
+        "color": "bay",
+        "condition": 79,
+        "animationPlayState" : false,
+        "position" : 0
+      },
+      {
+        "id" : 20,
+        "name": "Champion",
+        "color": "black",
+        "condition": 81,
+        "animationPlayState" : false,
+        "position" : 0
+      }
+    ]
+  }
+  

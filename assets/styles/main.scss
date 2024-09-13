@@ -1,0 +1,16 @@
+* {
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box !important;
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn {
+    cursor: pointer;
+    width: 200px;
+    height: 30px;
+    background: red;
+    color: white;
+    border-radius: 20px;
+    border : none
+}

@@ -1,0 +1,14 @@
+{
+  "extends": "./.nuxt/tsconfig.json",
+  "compilerOptions": {
+    "strict": true,
+    "skipLibCheck": true,
+    "moduleResolution": "node",         // Modülleri Node.js tarzında çözümle
+    "esModuleInterop": true,            // CommonJS modülleriyle uyumluluk sağlar
+    "baseUrl": ".",                     // Kök dizin olarak projenin kök klasörünü ayarla
+    "paths": {
+      "@/*": ["./*"]                    // Alias kullanımı, daha temiz yol çözümleri için
+    },
+    "module": "esnext"
+  }
+}

@@ -1,5 +1,6 @@
 import { defineStore } from 'pinia'
 import type IHorse from '@/types/IHorse'
+import type { AxiosInstance } from 'axios'
 import { makeColor } from '@/utils/makeColor'
 
 export const useHorseStore = defineStore('horseStore', {
@@ -20,8 +21,10 @@ export const useHorseStore = defineStore('horseStore', {
   actions: {
     async fetchHorses() {
       try {
-        const res = await fetch('https://json-server-vercel-ten-pink.vercel.app/horses')
-        const data = await res.json()
+        const { $axios } = useNuxtApp()
+        const axiosInstance = $axios as AxiosInstance
+        const res = await axiosInstance.get('/horses')
+        const data = await res.data
 
         const updatedHorses = data.map((horse: IHorse) => ({
           ...horse,

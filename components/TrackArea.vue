@@ -16,6 +16,7 @@
       </div>
     </div>
     <p v-else>No horses selected for the race</p>
+    <horse-sound />
   </div>
 </template>
 

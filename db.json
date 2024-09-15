@@ -2,9 +2,9 @@
     "horses": [
       {
         "id" : 1,
-        "name": "Thunder",
+        "name": "Sahbatur",
         "color": "gray",
-        "condition": 85,
+        "condition": 95,
         "animationPlayState" : false,
         "position" : 0
         
@@ -19,7 +19,7 @@
       },
       {
         "id" : 3,
-        "name": "Lightning",
+        "name": "Gulbatur",
         "color": "roan",
         "condition": 100,
         "animationPlayState" : false,

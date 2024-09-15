@@ -20,7 +20,7 @@ export const useHorseStore = defineStore('horseStore', {
   actions: {
     async fetchHorses() {
       try {
-        const res = await fetch('http://localhost:3001/horses')
+        const res = await fetch('https://json-server-vercel-ten-pink.vercel.app/horses')
         const data = await res.json()
 
         const updatedHorses = data.map((horse: IHorse) => ({

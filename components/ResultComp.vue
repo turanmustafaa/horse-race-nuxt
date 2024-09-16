@@ -27,11 +27,13 @@
             <span>Position</span>
             <span>Name /Color</span>
             <span>Condition</span>
+            <span>LapTime</span>
           </div>
           <div class="body" v-for="(horse,index) in winner" :key="horse.id">
                  <span>{{ index + 1  }}</span>
                  <span :style="{ background: horse.color}"> {{horse.name}} </span> 
                  <span>{{ horse.condition }}</span>
+                 <span>{{ horse.lapTime }}</span>
           </div>
         </div>
       </div>

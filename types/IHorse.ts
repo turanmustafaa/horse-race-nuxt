@@ -3,6 +3,7 @@ export default interface IHorse {
     name: string
     color: string
     condition: number,
-    animationPlayState : boolean,
-    position : number
+    position : number,
+    startTime : number,
+    lapTime : number
   }
